@@ -1,5 +1,5 @@
 # *****************************************************************************
-# Lab 9: Algorithm Parameter Tuning ----
+# Lab 9: Hyperparameter Tuning ----
 #
 # Course Code: BBT4206
 # Course Name: Business Intelligence II
@@ -106,8 +106,8 @@ if (require("languageserver")) {
 }
 
 # Introduction ----
-# Tuning involves identifying and applying the best combination of
-# algorithm parameters. Only the algorithm parameters that have a
+# Hyperparameter tuning involves identifying and applying the best combination
+# of algorithm parameters. Only the algorithm parameters that have a
 # significant effect on the model's performance are available for tuning.
 
 # STEP 1. Install and Load the Required Packages ----
