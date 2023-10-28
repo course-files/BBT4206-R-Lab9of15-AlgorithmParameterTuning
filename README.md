@@ -10,7 +10,7 @@ These are course files (instructional materials) for the **BBT4206: Business Int
 | **Semester Duration**                                                 | 21<sup>st</sup> August 2023 to 28<sup>th</sup> November 2023                                                                                                                       |
 | **Lecturer**                                                          | Allan Omondi                                                                                                                                                                       |
 | **Contact**                                                           | aomondi_at_strathmore_dot_edu                                                                                                                                                      |
-| **Recommended Citation (download [BibTex](RecommendedCitation.bib))** | Omondi, A. (2023). BBT4206-R-Lab8of15-ModelPerformanceComparison [R]. https://github.com/course-files/BBT4206-R-Lab8of15-ModelPerformanceComparison (Original work published 2023) |
+| **Recommended Citation (download [BibTex](RecommendedCitation.bib))** | Omondi, A. (2023). BBT4206-R-Lab9of15-AlgorithmParameterTuning [R]. https://github.com/course-files/BBT4206-R-Lab9of15-AlgorithmParameterTuning (Original work published 2023) |
 
 It is based on the following 9 steps of **Knowledge Discovery in Databases (KDD)**:
 
@@ -66,13 +66,13 @@ Evaluate several standard algorithms on the data and shortlist the top performin
 
 -   *Lab7c-AlgorithmSelectionForAssociation.R*
 
--   [*Lab8-ModelPerformanceComparison.R*](Lab8-ModelPerformanceComparison.R)
+-   *Lab8-ModelPerformanceComparison.R*
 
 ## Step 7: Utilization of the Data Mining Algorithm
 
 The chosen algorithm is then used to train the model. Knowledge is represented in the form of patterns and rules in a model. Algorithm tuning and ensemble methods are used at this point to get the most out of well performing algorithms.
 
--   *Lab9-AlgorithmParameterTuning.R*
+-   [*Lab9-AlgorithmParameterTuning.R*](Lab9-AlgorithmParameterTuning.R)
 
 -   *Lab10-EnsembleMethods.R*
 
