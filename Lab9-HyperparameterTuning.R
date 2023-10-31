@@ -209,7 +209,7 @@ set.seed(seed)
 getModelInfo("RRFglobal")
 
 # The Regularized Random Forest algorithm exposes the "coefReg" parameter
-# in addition to the "mtree" parameter for tuning.
+# in addition to the "mtry" parameter for tuning.
 ## The "mtry" parameter ----
 # Number of variables randomly sampled as candidates at each split.
 
