@@ -186,7 +186,7 @@ print(sonar_model_default_rf)
 train_control <- trainControl(method = "repeatedcv", number = 10, repeats = 3,
                               search = "random")
 set.seed(seed)
-mtry <- sqrt(ncol(sonar_independent_variables))
+# mtry <- sqrt(ncol(sonar_independent_variables))
 
 sonar_model_random_search_rf <- train(Class ~ ., data = dataset, method = "rf",
                                       metric = metric,
